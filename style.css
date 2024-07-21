@@ -1,0 +1,13 @@
+body {
+    background: #676;
+}
+
+.title {
+    color: #123;
+    font-size: 25px;
+}
+
+.text {
+    color: aqua;
+    font-size: 20px;
+}
